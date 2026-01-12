@@ -1,5 +1,5 @@
 📄 Project Overview:-
-This project consists of a set of SQL queries designed to analyze a digital music store's database (based on the popular Chinook Database schema). The goal is to derive actionable insights for business growth, marketing strategies, and operational efficiency. The analysis answers critical business questions regarding employee hierarchy, customer purchasing behavior, music genre popularity, and artist performance.
+This project consists of a set of SQL queries designed to analyze a digital music store's database. The goal is to derive actionable insights for business growth, marketing strategies, and operational efficiency. The analysis answers critical business questions regarding employee hierarchy, customer purchasing behavior, music genre popularity, and artist performance.
 
 📊 Business Problems Solved:-
 1. Employee Analysis
